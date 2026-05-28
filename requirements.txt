@@ -1,5 +1,3 @@
 gradio
 requests
 pydub
-librosa
-numpy==1.23.5
